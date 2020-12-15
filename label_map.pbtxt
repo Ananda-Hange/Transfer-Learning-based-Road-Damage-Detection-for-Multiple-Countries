@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'Wheel Mark'
+}
+
+item {
+  id: 2
+  name: 'Equal Interval'
+}
+
+item {
+  id: 3
+  name: 'Alligator Crack'
+}
+
+item {
+  id: 4
+  name: 'Rutting , Pothole'
+}
+
+item {
+  id: 5
+  name: 'Construction joint'
+}
+
+item {
+  id: 6
+  name: 'Crosswalk blur'
+}
+
+item {
+  id: 7
+  name: 'White/Yellow line blur'
+}
+
+item {
+  id: 8
+  name: 'Construction joint'
+}
+
+item {
+  id: 9
+  name: 'D50'
+}
