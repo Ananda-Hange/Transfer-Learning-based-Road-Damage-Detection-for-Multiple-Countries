@@ -20,3 +20,23 @@ This work makes the following contributions in this context. Firstly, Analyze a 
 1. Images  which contains images from all three countries namely Czech, India and Japan
 2. XML files which contain bounding box dimension with label in PASCAL format 
 3. Label file which contains labels.
+
+## Data Preperation :
+    1. Data preperation stage basically have two stages firstly , Resize image according to model we are going to use and secondly, Augmentation step.
+    2. Every model have their own way to prepare dataset Like Faster R-CNN and SSD MobileNet has siimmilar data preperation steps and it shown in Data_prep_for_SSD_and_faster_RCNN.ipynb file
+    3. Simmilarly for YOLOv3 model all data prepesration steps are shoen in data_prep_with_augmrntation_YoloV3.ipynb file.
+  
+## Training Models:
+    training models explain step by step in training_inference_Faster_RCNN_inception_resenet_640x640.ipynb for Faster RCNN ,For SSD MobilNet Training_inference_SSD_mobilenet_60k_steps.ipynb and YoloV3_training_inference.ipynb
+    
+## Final pipeline:
+    After training all models mention above we comapere them and will choose best model for pipeline,which is shown in final_pieline.ipynb file.
+    
+## Deployment:
+    Final model deployment is explain step by step in Deploy_model.ipynb  file.
+ 
+ 
+
+
+
+
